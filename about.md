@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+The EternalBox is a rehosting of the Infinite Jukebox and the Auto-Canonizer, originally created by Paul Lamere. Due to the closing of the public EchoNest Api, a new backend was written that leveraged Spotify's analysis for songs.
 
-email: agus[at]python.web.id
+For more information, check out the Jukebox [here](https://eternalbox.dev).
