@@ -23,7 +23,7 @@ So, what does this mean? Let's establish a timeline.
 4. After two weeks of site usage, if the rewritten engine performs well, and feedback is positive, then the rewrite will replace the main site. The current version of the site will be available for a short while after.
 5. Two weeks after that, the current version of the site will be permanently retired. 
 
-Currently, the new site is pretty barebones in functionality, but it's slowly being added in. Patrons that are on the [Discord server](https://discord.gg/KWN5BfD) have a channel they can use to check in on how everything's going.
+Currently, the new site is pretty barebones in functionality, but it's slowly being added in. Patrons that are on the [Discord server](/invite) have a channel they can use to check in on how everything's going.
 
 However, while I've been focusing on talking about the backend server, there's another component that's getting overhauled - the front facing website.
 
